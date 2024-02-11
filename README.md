@@ -41,14 +41,14 @@ Based on Independent Variables the problem is Multi Classification we will use 3
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/6f5a1eb1-cd5d-4647-8069-d721c4dbd2cb)
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/5f4fc3b4-3a97-4c96-b1ae-fc084f182715)
 
-Evaluation
+# Evaluation
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/24df476a-01e9-4591-ae7b-e1a80cf6e92f)
 
 # Support Vector Machine (Classifier)
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/2945e054-0d93-4d8c-9306-37b3a4c2ede6)
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/7adb7686-d49d-4753-909a-54ccee9234ad)
 
-Evaluation 
+# Evaluation 
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/76037ca9-93db-4403-9fb1-afba6015a753)
 
 # Decision Tree Classifier
@@ -56,7 +56,7 @@ Evaluation
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/3a849333-4abd-472b-bc71-9220ca39f282)
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/30e10811-d543-4b53-ae97-6c637de566ea)
 
-Evaluation
+# Evaluation
 ![image](https://github.com/SakaataGintoki/Obesity_Prediction_Project/assets/107795560/a6d13d73-3450-4766-8185-c5eacaa5c6cc)
 
 # Comparision and Results
