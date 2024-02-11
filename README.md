@@ -21,15 +21,13 @@ The problem is to predict whether the person is Normal Weight ,Obese,Overweight,
 - Scikit-learn: Scikit-Learn, also known as Sklearn is a python library to implement machine learning models and statistical modelling.
 
 # EDA Pre-Processing
-
 To perform EDA is one of the most important thing to do before applying any Machine Learning Model .It make sures that data is been validate and no outliers are present
 Eda and pre procession steps -
-a) handling the missing value
-b) converting categorial to numeric
-c) feature scaling(Standard scaling)
-d) Handling outliers (value more than IQR is outliers)
-e) train test split
-
+- handling the missing value
+- converting categorial to numeric
+- feature scaling(Standard scaling)
+- Handling outliers (value more than IQR is outliers)
+- Train test split
 
 # Machine Learning Model
 Based on Independent Variables the problem is Multi Classification we will use 3 Algorithm (i.e)
